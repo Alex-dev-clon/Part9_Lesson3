@@ -13,4 +13,5 @@ public class Supervisor extends Employee {
         }
         else employee.setSalary(employee.getSalary() + size);
     }
+
 }
